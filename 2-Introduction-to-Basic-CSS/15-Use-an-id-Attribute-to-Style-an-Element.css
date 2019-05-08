@@ -1,4 +1,4 @@
-/* 2.16: You can style id attributes with CSS. They can only be used 
+/* 2.15: You can style id attributes with CSS. They can only be used 
 in one element and have a higher specificity, meaning if an id and a class
 are used in the same element, the id takes precedence. Classes get periods in
  front of them in the style element, ids get #. */
