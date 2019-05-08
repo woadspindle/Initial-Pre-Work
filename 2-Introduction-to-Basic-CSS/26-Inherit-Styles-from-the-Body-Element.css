@@ -1,7 +1,13 @@
-/*2.26: CSS inheritance and proving the body element exists:  */
+/*2.26: If you style the body element of the page all the other
+ child elements will inherit those styles. */
 
 <style>
-body {
-  background-color: black;
-}
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
 </style>
+
+<h1>Hello World</h1>
