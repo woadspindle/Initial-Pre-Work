@@ -1,0 +1,15 @@
+/*2.41: A good fallback value is one that is more widely supported by browsers.
+ As a browser reads CSS it ignores what it doesn't understand.*/
+
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>
