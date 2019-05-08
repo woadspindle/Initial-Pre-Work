@@ -1,0 +1,7 @@
+/*2.26: CSS inheritance and proving the body element exists: */
+
+<style>
+body {
+  background-color: black;
+}
+</style>
