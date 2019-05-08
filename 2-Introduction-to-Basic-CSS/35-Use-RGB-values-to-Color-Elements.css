@@ -1,0 +1,8 @@
+/*2.35: RGB values are one more way to call a color without using the name
+or hex value for it. */
+
+<style>
+  body {
+    background-color: rgb(0,0,0);
+  }
+</style>
