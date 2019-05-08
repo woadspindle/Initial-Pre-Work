@@ -1,0 +1,14 @@
+/* 2.27: Conflicting styles will default to the more specific declaration.*/
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+
+  .pink-text {
+    color: pink;
+  }
+</style>
+<h1 class="pink-text">Hello World!</h1>
