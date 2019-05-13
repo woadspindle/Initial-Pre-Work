@@ -1,4 +1,4 @@
-/*4.44: To remove the first element of an array you use .shift() instead of
+/*4.43: To remove the first element of an array you use .shift() instead of
  .pop(). */
 
 // Example
