@@ -1,0 +1,12 @@
+/*4.99: A do/while loop does at least one run through of a loop and then continues to run through it until a specified condition is no longer true. */
+
+// Setup
+var myArray = [];
+var i = 10;
+
+// Only change code below this line.
+
+do {
+  myArray.push(i);
+  i++;
+} while (i < 5);
