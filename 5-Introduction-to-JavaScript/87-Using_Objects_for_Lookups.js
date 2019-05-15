@@ -1,4 +1,4 @@
-/*4.87: Objects can be used to in place of if/else or switch statements. Especially when the input is limited to a small range of values. */
+/*4.87: Objects can be used in place of if/else or switch statements. Especially when the input is limited to a small range of values. */
 
 // Setup
 function phoneticLookup(val) {
